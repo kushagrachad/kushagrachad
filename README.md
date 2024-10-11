@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kushagrachadha
-- 👀 I’m interested in tech and fascinated by it
-- 🌱 I’m currently learning dsa and java script
-- 💞️ I’m looking to collaborate on any project in which i will provide support to the best of my abilities(would appreciate non tech roles as well)
+- 👀 Tech lover and a life long contributor
+- 🌱 Flutter developer
+- 💞️ Contributing to real life problems and creating solutions 
 - 📫 You can reach me via kushagrachadha007@gmail.com
 
 <!---
